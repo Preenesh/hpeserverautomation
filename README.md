@@ -1,4 +1,4 @@
-# HPE Server Automation
+# HPE Server Automation <img src="images/hpesalogo.png" width="100">
 
 Scripts here can be used to automate or help automate various task using HPE Server Automation.
 > Server Automation software automates provisioning, patching, and compliance across physical and virtual server environments.
