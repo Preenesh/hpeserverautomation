@@ -9,6 +9,7 @@ The target audience is someone having experience in supporting HPE SA.
 
 ## Scripts
 
+* [Start OS Build Plan on Already Managed Server](scripts/Start_OSBPonManagedSrvinSA.bash)
 * [Force Full Hardware Inventory using HPE SA Agent](scripts/Start_FullHardwareInventoryinSA.bat)
 * [Force Full Software Inventory using HPE SA Agent](scripts/Start_FullSoftwareInventoryinSA.bat)
 
