@@ -9,6 +9,8 @@ The target audience is someone having experience in supporting HPE SA.
 
 ## Scripts
 
+* [Set Permission on HPE SA Media Folder to 777 before OS Image Capture](scripts/Set-PermissonSAMediaFldto777.bash)
+* [Set Permission on HPE SA Media Folder to 755 after OS Image Capture](scripts/Set-PermissonSAMediaFldto755.bash)
 * [Start OS Build Plan on Already Managed Server](scripts/Start_OSBPonManagedSrvinSA.bash)
 * [Force Full Hardware Inventory using HPE SA Agent](scripts/Start_FullHardwareInventoryinSA.bat)
 * [Force Full Software Inventory using HPE SA Agent](scripts/Start_FullSoftwareInventoryinSA.bat)
