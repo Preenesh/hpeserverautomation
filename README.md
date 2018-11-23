@@ -9,6 +9,7 @@ The target audience is someone having experience in supporting HPE SA.
 
 ## Scripts
 
+* [Force Full Hardware Inventory using HPE SA Agent](scripts/Start_FullHardwareInventoryinSA.bat)
 * [Force Full Software Inventory using HPE SA Agent](scripts/Start_FullSoftwareInventoryinSA.bat)
 
 > Note All Trademarks and Copyrights belong to their owners and are used for identification only.
