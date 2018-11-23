@@ -9,6 +9,6 @@ The target audience is someone having experience in supporting HPE SA.
 
 ## Scripts
 
-* [Coming Soon](commingsoon.md)
+* [Force Full Software Inventory using HPE SA Agent](scripts/Start_FullSoftwareInventoryinSA.bat)
 
 > Note All Trademarks and Copyrights belong to their owners and are used for identification only.
